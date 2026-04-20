@@ -1,7 +1,7 @@
 # Abidjan.ai Project Management Internship Assignment
 
 ## Project Overview
-This repository contains the documentation and project management artifacts for a simulated **Predictive Maintenance Machine Learning System**. The project focuses on ingesting continuous signal data from industrial DC motors, processing the data, and training an ML model to detect anomalies and predict mechanical failures before they occur. 
+This repository contains the documentation and project management artifacts for a simulated **Predictive Maintenance Machine Learning System**. The project focuses on ingesting continuous signal data from industrial DC motors, processing the data, and training a ML model to detect anomalies and predict mechanical failures before they occur. 
 
 ## Project Structure
 The project was structured using the Agile Scrum framework within Microsoft Azure DevOps, broken down into three 2-week sprints:
